@@ -17,7 +17,7 @@ Categorical : 13
 Boolean : 5
 
 Numeric : 3
-    # Variables
+# Variables
     *	customerID          : Customer ID
     *	gender                  : Whether the customer is a male or a female
     *	SeniorCitizen       : Whether the customer is a senior citizen or not (1, 0)
