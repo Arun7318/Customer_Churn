@@ -66,7 +66,7 @@ Numeric : 3
  * On contarct based analysis,The company provide three types of Contract month to month, Two year, One year.From the analysis there is 55% of customers are type of 
    onth to month contract, 24% are the type of Two Year contract and remaining are (21%) of One year contarct.
   
-  ![img](CustomerContract.PNG)
+   ![img](CustomerContract.PNG)
       
       From the graph, the number of customers churned is high for month to month(M2M)contract.Above the 50% of customers are 
       M2M contract.
