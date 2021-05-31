@@ -75,10 +75,11 @@ Numeric : 3
    
    ![img](PaymentMethod.PNG)
    
-    The graphs shows that the rate of churning is high for electronic Check type . 50% and above customers are churned.
+    The graphs shows that the rate of churning is high for electronic Check type,50% and above customers are churned.
+    
  * From the overall analysis,there is the variables tenure,MonthlyCharges,TotalCharges are correlated with them.
    
-   ![img](Conclusion.PNG)
+      ![img](Conclusion.PNG)
    
 
       * Churning customers have much lower tenure 
