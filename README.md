@@ -1,8 +1,9 @@
 # Objective
-Churn is a one of the biggest problem in the telecom industry. I have the ‘Telco Churn’ data, it contains the information about each customer of this telco company along with whether if a given customer has chunred or not.
-
-I wanted to understand what makes customers churn or not, and also wanted to know what we could do to prevent the churn.
+For Telco companies it is key to attract new customers and at the same time avoid contract terminations (churn) to grow their revenue generating base. Looking at churn, different reasons trigger customers to terminate their contracts, for example better offers, more interesting packages, bad service experiences or change of customers’ personal situations.
+Customer_Churn analysis provides valuable capabilities to predict customer churn and also define the underlying reasons that drive it. 
 # Dataset
+The data set for this classification problem is taken from Kaggle data set collection (https://www.kaggle.com/blastchar/telco-customer-churn). The analysis is started with imports of some basic libraries that are needed throughout the case. This includes Pandas and Numpy for data handling and processing as well as Matplotlib and Seaborn for visualization.
+
 Name : Telco-Customer-Churn.csv
 
 Number of variables : 21
