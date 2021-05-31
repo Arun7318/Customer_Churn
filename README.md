@@ -41,14 +41,12 @@ Numeric : 3
     *	TotalCharges        : The total amount charged to the customer
     *	Churn		           : Whether the customer churned or not (Yes or No)
 
-#Dataset Cleaning
+# Dataset Cleaning
    The dataset contains 7043 observation and from this the customerID is not need so i just drop the variable customerID
    telecom_cust.drop("customerID",axis=1,inplace=True)
-#Missing Values
+# Missing Values
    From the 7043 observations only one varaible contains the missing values,ie.TotalCharges(11), Compared to the datset its very low so it is romeved from the set
-   #Removing missing   values 
-      telecom_cust.dropna(inplace = True)
-#Exploratory Data Analysis
-   After data collection, several steps are carried out to explore the data.
- 
+   Removing missing values
+   telecom_cust.dropna(inplace = True)
+
 
