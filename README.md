@@ -67,10 +67,10 @@ Numeric : 3
    onth to month contract, 24% are the type of Two Year contract and remaining are (21%) of One year contarct.
   
   ![img](CustomerContract.PNG)
-  
-      From the graph, the number of customers churned is high for month to month(M2M)contract.
-      Above the 50% of customers are M2M contract.
       
+      From the graph, the number of customers churned is high for month to month(M2M)contract.Above the 50% of customers are 
+      M2M contract.
+
  * On PaymentMethod based analysis, only the Electronic check payment methods churning rate is high.
    
    ![img](PaymentMethod.PNG)
