@@ -49,4 +49,30 @@ Numeric : 3
    Removing missing values
    telecom_cust.dropna(inplace = True)
 
+# Conclusion
+   From the EDA there are some services and packages are the reason for churning customers,they are
+ * From the tenure based analysis,from the total customers only a few customers are churning(they are works with the company for a long time)
+   and the only the customers churning are is shorterm customers.
+   ![img](TenureBased.PNG)
+   from the graph we can see that only the customeres are churning the types of short term customers.
+ * From the Internet service based analysis there is 78% customers using the service.
+   ![img](InternetServiceCnt.PNG)
+      from the customer using internet service ,there is two types of service that company provide OFC and DSL from analysis we know that 78% are using the internet service and 
+      there is almost 72% of customers are churned from the OFC based internet connection. That shows, there is containg some problem in Optical Fiber Cable or its service.
+ * On contarct based analysis,The company provide three types of Contract month to month, Two year, One year.From the analysis there is 55% of customers are type of 
+   onth to month contract, 24% are the type of Two Year contract and remaining are (21%) of One year contarct.
+   ![img](CustomerContract.PNG)
+      From the graph, the number of customers churned is high for month to month(M2M)contract.Above the 50% of customers are M2M contract.
+ * On PaymentMethod based analysis, only the Electronic check payment methods churning rate is high.
+    ![img](PaymentMethod.PNG)
+    The graphs shows that the rate of churning is high for electronic Check type . 50% and above customers are churned.
+ * From the overall analysis,there is the variables tenure,MonthlyCharges,TotalCharges are correlated with them.
+   ![img](Conclusion.PNG)
 
+      * Churning customers have much lower tenure 
+
+      * Churning customers have higher monthly charges.
+
+      * TotalCharges are the result of tenure and MonthlyCharges, which are more insightful on an individual basis.
+    
+   
