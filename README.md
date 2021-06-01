@@ -54,12 +54,12 @@ Numeric : 3
  * From the tenure based analysis,from the total customers only a few customers are churning(they are works with the company for a long time)
    and the only the customers churning are is shorterm customers.
    
-   ![img](TenureBased.PNG)
+   ![img](TenureBased.png)
    
    from the graph we can see that only the customeres are churning the types of short term customers.
  * From the Internet service based analysis there is 78% customers using the service.
    
-   ![img](InternetServiceCnt.PNG)
+   ![img](InternetServiceCnt.png)
    
       from the customer using internet service ,there is two types of service that company provide OFC and DSL from analysis we know that 78% are using the internet service and 
       there is almost 72% of customers are churned from the OFC based internet connection. That shows, there is containg some problem in Optical Fiber Cable or its service.
@@ -79,7 +79,7 @@ Numeric : 3
     
  * From the overall analysis,there is the variables tenure,MonthlyCharges,TotalCharges are correlated with them.
    
-      ![img](Conclusion.PNG)
+      ![img](Conclusion.png)
    
 
       * Churning customers have much lower tenure 
