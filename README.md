@@ -66,14 +66,14 @@ Numeric : 3
  * On contarct based analysis,The company provide three types of Contract month to month, Two year, One year.From the analysis there is 55% of customers are type of 
    onth to month contract, 24% are the type of Two Year contract and remaining are (21%) of One year contarct.
   
-   ![img](CustomerContract.PNG)
+   ![img](CustomerContract.png)
       
       From the graph, the number of customers churned is high for month to month(M2M)contract.Above the 50% of customers are 
       M2M contract.
 
  * On PaymentMethod based analysis, only the Electronic check payment methods churning rate is high.
    
-   ![img](PaymentMethod.PNG)
+   ![img](PaymentMethod.png)
    
     The graphs shows that the rate of churning is high for electronic Check type,50% and above customers are churned.
     
