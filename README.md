@@ -46,7 +46,7 @@ Numeric : 3
    telecom_cust.drop("customerID",axis=1,inplace=True)
 # Missing Values
    From the 7043 observations only one varaible contains the missing values,ie.TotalCharges(11), Compared to the datset its very low so it is romeved from the set
-   Removing missing values
+   Removing missing values.
    telecom_cust.dropna(inplace = True)
 
 # Conclusion
@@ -82,7 +82,7 @@ Numeric : 3
       ![img](Conclusion.png)
    
 
-      * Churning customers have much lower tenure 
+      * Churning customers have much lower tenure .
 
       * Churning customers have higher monthly charges.
 
